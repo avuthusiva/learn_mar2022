@@ -3,5 +3,9 @@ added new file with new 7.txt
 My name is siva
 
 added new text from github
+<<<<<<< Updated upstream
 
 My name is bill
+=======
+This is siva
+>>>>>>> Stashed changes
