@@ -1,8 +1,5 @@
 Hello World
 This is SIVA
 Added more text
-New data added
-New changes from desktop
-Changes added through github
-New data added
+This is SIVA
 Changes added through github
